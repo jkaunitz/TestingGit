@@ -1,3 +1,3 @@
 print("Hi Git")
 
-Print("Hi from another Dev")
+print("Hi from another Dev")
